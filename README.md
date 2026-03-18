@@ -30,3 +30,17 @@ Given two teams, predict the probability that Team A will beat Team B.
 - Handling data pipelines is critical in ML
 
 ## 📁 Project Structure
+  ```
+  march-mania-ml/
+  ├── notebooks/
+  │   └── main.ipynb
+  ├── src/
+  │   ├── data_processing.py
+  │   ├── feature_engineering.py
+  │   └── train.py
+  ├── submission/
+  │   └── submission.csv
+  ├── data/
+  ├── README.md
+  └── requirements.txt
+  ```
